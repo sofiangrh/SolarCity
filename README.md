@@ -1,2 +1,2 @@
 # SolarCity
-Metacity Theme. 
+SolarCity Metacity Theme. 
